@@ -1,0 +1,25 @@
+# Android e Gradle
+.gradle/
+build/
+**/build/
+local.properties
+*.apk
+*.aab
+*.dex
+*.class
+
+# Android Studio
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Chaves e dados sensíveis
+*.jks
+*.keystore
+keystore.properties
